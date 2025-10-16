@@ -2,5 +2,8 @@
 
 
 Here’s how the homepage looks:
-(main/Screenshot 2025-10-16 122248.png)
+
+
+![Home Screenshot](Screenshot%202025-10-16%20122248.png)
+
 
