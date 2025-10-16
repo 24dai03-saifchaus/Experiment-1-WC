@@ -8,4 +8,4 @@ Here’s how the homepage looks:
 
 
 Here is contact page 
-![Home Screenshot](Screenshot%202025-10-16%124815.png)
+![Home Screenshot](contactout)
