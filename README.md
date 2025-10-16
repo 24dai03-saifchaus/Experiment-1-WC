@@ -12,4 +12,4 @@ Here is contact page
 
 
 Here is dept page
-(deptout)
+![Dept Screenshot](deptout)
