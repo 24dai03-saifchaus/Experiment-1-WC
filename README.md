@@ -8,4 +8,8 @@ Here’s how the homepage looks:
 
 
 Here is contact page 
-![Home Screenshot](contactout)
+![Contact Screenshot](contactout)
+
+
+Here is dept page
+(deptout)
